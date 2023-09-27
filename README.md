@@ -1,4 +1,4 @@
-# **Introdução** _Form-CadEndereco_
+# ``(👉ﾟヮﾟ)👉`` **Introdução** _Form-CadEndereco_
 
 ![pagina principal](img/pg-principal.png)
 
@@ -7,7 +7,7 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 **_Utilidade:_** Este projeto pode ser útil em diversos contextos, como cadastros de clientes, entregas, ou qualquer outra aplicação que envolva informações de endereço.
 
-# **Funcionalidades**
+# ``( ͡• ͜ʖ ͡• )``**Funcionalidades**
 
 **Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário. Os campos incluem:
 
@@ -22,3 +22,7 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 + ``Cidade:`` Os usuários podem informar a cidade do endereço.
 
 + ``Estado:`` Este campo oferece uma lista suspensa (dropdown) para a seleção do estado correspondente.
+
+# ``✍️(◔◡◔)``**Autor**
+
+[Danilo Felype Lima](https://github.com/DaniloFelype)

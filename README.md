@@ -7,7 +7,7 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 **_Utilidade:_** Este projeto pode ser útil em diversos contextos, como cadastros de clientes, entregas, ou qualquer outra aplicação que envolva informações de endereço.
 
-# ``( ͡• ͜ʖ ͡• )``**Funcionalidades**
+# ``(╹ڡ╹ )``**Funcionalidades**
 
 **Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário. Os campos incluem:
 

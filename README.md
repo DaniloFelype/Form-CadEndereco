@@ -11,7 +11,7 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 **Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário. Os campos incluem:
 
-+ ``CEP:`` Os usuários podem inserir o CEP do endereço desejado.
++ <span style="color: red"> ``CEP:`` </span> Os usuários podem inserir o CEP do endereço desejado.
 
 + ``Endereço:`` O campo permite a inserção do nome da rua, avenida ou localização.
 

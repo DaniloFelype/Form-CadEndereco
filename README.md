@@ -1,4 +1,4 @@
-# ``(👉ﾟヮﾟ)👉`` **Introdução** _Form-CadEndereco_
+# <span style="color: Goldenrod">(👉ﾟヮﾟ)👉</span> <span style="color: blue">**Introdução** _Form-CadEndereco_</span>
 
 ![pagina principal](img/pg-principal.png)
 
@@ -7,11 +7,11 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 **_Utilidade:_** Este projeto pode ser útil em diversos contextos, como cadastros de clientes, entregas, ou qualquer outra aplicação que envolva informações de endereço.
 
-# ``🔨🧐``**Funcionalidades**
+# 🔨🧐<span style="color: darkblue"> **Funcionalidades** </span>
 
 **Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário. Os campos incluem:
 
-+ <span style="color: red"> ``CEP:`` </span> Os usuários podem inserir o CEP do endereço desejado.
++ ``CEP:`` Os usuários podem inserir o CEP do endereço desejado.
 
 + ``Endereço:`` O campo permite a inserção do nome da rua, avenida ou localização.
 
@@ -23,6 +23,6 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 + ``Estado:`` Este campo oferece uma lista suspensa (dropdown) para a seleção do estado correspondente.
 
-# ``✍️(◔◡◔)``**Autor**
+# <span style="color: Goldenrod">✍️(◔◡◔)</span> <span style="color: darkblue"> **Autor** </span>
 
-[Danilo Felype Lima](https://github.com/DaniloFelype)
+<span style="color: red">[Danilo Felype Lima](https://github.com/DaniloFelype)</span>

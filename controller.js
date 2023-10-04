@@ -28,7 +28,7 @@ const preencherFormulario = (endereco) => {
 }
 
 //Consumo da API da ViaCEp
-const pesquisarCep = async() => {
+const pesquisarCep = async () => {
     limparFormulario();
     const url = `http://viacep.com.br/ws/${cep.value}/json/`;
 
@@ -39,10 +39,10 @@ const pesquisarCep = async() => {
 
         if (addres.hasOwnProperty('erro')) {
             alert('CEP não encontrado');
-        }else{
+        } else {
             preencherFormulario(addres);
         }
-    }else{
+    } else {
         alert('CEP Incorreto');
     }
 }

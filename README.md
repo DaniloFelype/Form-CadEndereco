@@ -23,6 +23,6 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 + ``Estado:`` Este campo oferece uma lista suspensa (dropdown) para a seleção do estado correspondente.
 
-# <span style="color: Goldenrod">✍️(◔◡◔)</span> <font color="green"> **Autor** </font>
+# $${\color{darkblue}✍️(◔◡◔)}$$ **$${\color{darkblue}Autor}$$**
 
 <span style="color: red">[Danilo Felype Lima](https://github.com/DaniloFelype)</span>

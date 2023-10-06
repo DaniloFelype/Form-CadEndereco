@@ -30,7 +30,7 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>](https://getbootstrap.com/)
 
-<code><img heigt="32" scr="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
+<code><img scr="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></code>
 
 # <span style="color: Goldenrod">✍️(◔◡◔)</span> <span style="color: darkblue"> **Autor** </span>
 

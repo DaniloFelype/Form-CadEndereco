@@ -23,7 +23,9 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 + ``Estado:`` Este campo oferece uma lista suspensa (dropdown) para a seleção do estado correspondente.
 
-# **Fontes Consultadas**
+# <span style="color: darkblue"> **Tecnologias utilizadas** </span>
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 
 # <span style="color: Goldenrod">✍️(◔◡◔)</span> <span style="color: darkblue"> **Autor** </span>
 

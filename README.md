@@ -9,7 +9,10 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 # 🔨🧐<span style="color: darkblue"> **Funcionalidades** </span>
 
-**Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário. Os campos incluem:
+**Preenchimento do Formulário:** Os usuários podem interagir preenchendo os campos do formulário.
+![gif](img/cep-correto.gif)
+
+ **Os campos incluem:**
 
 + ``CEP:`` Os usuários podem inserir o CEP do endereço desejado.
 
@@ -27,8 +30,15 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></code>](https://github.com/)
 [<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudio"/></code>](https://code.visualstudio.com/)
+
+``HTML 5:`` O HTML foi usado neste projeto para criar a estrutura e o conteúdo da página da web.
+
+``CSS 3:`` O CSS foi usado neste projeto para estilizar e melhorar a apresentação visual da página.
+
+``JavaScript:`` O JavaScript foi usado neste projeto para adicionar funcionalidades interativas à página.
 
 # <span style="color: Goldenrod">✍️(◔◡◔)</span> <span style="color: darkblue"> **Autor** </span>
 

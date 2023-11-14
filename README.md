@@ -44,10 +44,12 @@ Este é um projeto de página web com um formulário de **"Cadastro de Endereço
 
 <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/127853755?s=400&u=0258f87ad131f48ebda0ce59c807b8ef147ae6a5&v=4" width="150px">
 
-[Danilo Felype Lima](https://github.com/DaniloFelype)
+| [<img loading="lazy" src="https://github.com/DaniloFelype" width=115><br><sub>Danilo Felype Lima</sub>](https://github.com/DaniloFelype) |
+| :---: |
 
 <p align="left">
   <a href="mailto:danilo87651@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
   </p>
 
+https://github.com/DaniloFelype
